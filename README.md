@@ -6,7 +6,7 @@ This project created for to take currency information from central bank of count
 - ECB : European Central Bank
 
 
-# Coming soon
+# Soon
 
 - BOE : Bank of England
 
